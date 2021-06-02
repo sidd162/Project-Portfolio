@@ -1,3 +1,3 @@
 # Project-Portfolio
 
-[a link](https://github.com/sidd162/Diabetes_Prediction.git)
+[Stock_Price_Prediction](https://github.com/sidd162/Stock_Price_Prediction.git)
